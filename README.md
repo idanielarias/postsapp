@@ -1,3 +1,11 @@
+# React App to Manage Posts creation (CRUD)
+
+https://yellow-pond-0742cd510.1.azurestaticapps.net
+
+This App consumes minimal APIs from: https://posts-backend.azurewebsites.net/index.html
+
+Both, front end and back end are hosted in Azure.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
